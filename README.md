@@ -1,6 +1,6 @@
 # One Dark Lite theme for Xcode
 
-This is based on [One Dark theme for Xcode](https://github.com/bojan/xcode-one-dark)
+This is based on [One Dark theme for Xcode](https://github.com/bojan/xcode-one-dark).
 
 ## Installation
 
